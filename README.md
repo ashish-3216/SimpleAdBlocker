@@ -9,7 +9,7 @@ Easy to configure and extend with additional rules.
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/Simple_Ad_Blocker.git
+git clone https://github.com/ashish-3216/Simple_Ad_Blocker.git
 Open Chrome and navigate to chrome://extensions/.
 
 Enable "Developer mode" in the top right corner.
